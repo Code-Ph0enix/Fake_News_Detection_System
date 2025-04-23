@@ -8,7 +8,7 @@
 The **Fake News Detection** project is designed to combat the spread of misinformation by using machine learning to classify news articles as **Fake** or **Real**. Built with a full-stack architecture, the app allows users to input news text, receive predictions from multiple models, and engage with interactive educational tools.
 
 ---
-🔗 **Demo Link**:  [https://fake-news-detection-beige.vercel.app/](https://fake-news-detection-beige.vercel.app/)
+# 🌐 **[LIVE DEMO]**(https://fake-news-detection-beige.vercel.app/)
 </center>
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
