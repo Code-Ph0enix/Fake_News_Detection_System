@@ -158,13 +158,16 @@ cd fake-news-detection
 
 ```
 fake-news-detection/
-├── backend/
-│   |── models/
-│   ├── app.py
-│   └── ...
-├── frontend/
-│   ├── src/
-│   ├── public/
+├── code/
+│   ├── backend/
+│   │   |── models/
+│   │   ├── app.py
+│   │   └── ...
+│   ├── frontend/
+│   │   ├── src/
+│   │   │   ├── components/
+│   │   │   ├── hooks/
+│   │   │   └── ...
 │   └── ...
 ├── data/
 │   ├── fake.csv
