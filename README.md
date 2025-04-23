@@ -12,7 +12,11 @@ The **Fake News Detection** project is designed to combat the spread of misinfor
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   
-# 🌐 [LIVE DEMO](https://fake-news-detection-beige.vercel.app/)
+<p align="center">
+  <a href="https://fake-news-detection-beige.vercel.app/" target="_blank">
+    🌐 <strong>LIVE DEMO</strong>
+  </a>
+</p>
 
 </center>
 <p align="center"> 
