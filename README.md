@@ -1,3 +1,5 @@
+👉 [View Screenshots](./Screenshots.md)
+
 # 📰 Fake News Detection App  
 **A Machine Learning-Powered Full-Stack Web Application to Classify News Articles as Real or Fake**
 
