@@ -12,11 +12,9 @@ The **Fake News Detection** project is designed to combat the spread of misinfor
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   
-<p align="center">
-  <a href="https://fake-news-detection-beige.vercel.app/" target="_blank">
-    🌐 <strong>LIVE DEMO</strong>
-  </a>
-</p>
+<h1 align="center">
+  🌐 <a href="https://fake-news-detection-beige.vercel.app/" target="_blank">LIVE DEMO</a>
+</h1>
 
 </center>
 <p align="center"> 
@@ -30,6 +28,18 @@ In today’s digital age, **fake news** spreads rapidly, especially via social m
 Our challenge:  
 ➡️ Automatically distinguish between fake and real news using **text classification** techniques.  
 ➡️ Develop a model capable of understanding linguistic and stylistic patterns in news articles.
+
+---
+
+## 🔍 App Features
+
+- 📰 **News Prediction**: Input any news article text and receive model-wise prediction.
+- 📊 **Model Comparison**: See how different algorithms classify the same article.
+- 🎮 **Educational Mode**:
+  - Fake News Quiz
+  - Speed Challenge
+  - Leaderboard tracking
+- 🌓 **Dark/Light Mode** toggle for better UX
 
 ---
 
@@ -141,18 +151,6 @@ cd fake-news-detection
    ```
 
 > Open `http://localhost:5173/` in your browser to access the app
-
----
-
-## 🔍 App Features
-
-- 📰 **News Prediction**: Input any news article text and receive model-wise prediction.
-- 📊 **Model Comparison**: See how different algorithms classify the same article.
-- 🎮 **Educational Mode**:
-  - Fake News Quiz
-  - Speed Challenge
-  - Leaderboard tracking
-- 🌓 **Dark/Light Mode** toggle for better UX
 
 ---
 
