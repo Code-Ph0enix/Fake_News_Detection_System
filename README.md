@@ -34,8 +34,7 @@ Our challenge:
 - **API Handling**: Flask-CORS
 - **Logging**: Python Logging Module
 
-🔗 **Hosted API**:  
-[https://fakenewsdetectiobackend-production.up.railway.app/](https://fakenewsdetectiobackend-production.up.railway.app/)
+---
 
 ### 🌐 Frontend
 - **Framework**: React (with TypeScript)
@@ -48,6 +47,9 @@ Our challenge:
   - Educational games: Quiz, Speed Challenge
   - Leaderboard tracking
 
+---
+🔗 **Demo Link**:  
+[https://fake-news-detection-beige.vercel.app/](https://fake-news-detection-beige.vercel.app/)
 ---
 
 ## 🧠 Machine Learning Models
@@ -147,23 +149,22 @@ cd fake-news-detection
 ```
 fake-news-detection/
 ├── backend/
-│   ├── models/
+│   |── models/
 │   ├── app.py
 │   └── ...
 ├── frontend/
 │   ├── src/
 │   ├── public/
 │   └── ...
+├── data/
+│   ├── fake.csv
+│   ├── true.csv
+├── papers/
+│   ├── paper-1.pdf
+│   ├── paper-2.pdf
+│   └── ...
 ├── README.md
 └── requirements.txt
 ```
 
 ---
-
-## 🙌 Acknowledgements
-
-We, **Eeshanya Joshi**, **Aakriti Mehta**, and **Khushi Menpara**, express our sincere gratitude to our guide **Professor Poonam Bhogle** for her continuous support, expert guidance, and valuable feedback throughout the development of this project.
-
----
-
-Let me know if you'd like me to generate this as a file or add images/screenshots for the UI section!
