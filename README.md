@@ -157,7 +157,7 @@ cd fake-news-detection
 ## 📦 Folder Structure
 
 ```
-fake-news-detection/
+Fake_News_Detection_System/
 ├── code/
 │   ├── backend/
 │   │   |── models/
