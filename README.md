@@ -10,6 +10,7 @@ The **Fake News Detection** project is designed to combat the spread of misinfor
 ---
 🔗 **Demo Link**:  
 [https://fake-news-detection-beige.vercel.app/](https://fake-news-detection-beige.vercel.app/)
+
 ---
 
 ## 🎯 Problem Definition
