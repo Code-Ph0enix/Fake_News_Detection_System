@@ -172,6 +172,10 @@ fake-news-detection/
 ├── data/
 │   ├── fake.csv
 │   ├── true.csv
+├── other/
+│   ├── Screenshot-1.png
+│   ├── Screenshot-2.png
+│   ├── Screenshot-3.png
 ├── papers/
 │   ├── paper-1.pdf
 │   ├── paper-2.pdf
