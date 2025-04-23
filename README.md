@@ -1,5 +1,3 @@
-👉 [View Screenshots](./Screenshots.md)
-
 # 📰 Fake News Detection App  
 **A Machine Learning-Powered Full-Stack Web Application to Classify News Articles as Real or Fake**
 
@@ -42,19 +40,6 @@ Our challenge:
   - Speed Challenge
   - Leaderboard tracking
 - 🌓 **Dark/Light Mode** toggle for better UX
-
----
-
-## 📸 Screenshots
-
-### 🖼️ Homepage (Fake News Detected)
-![Homepage](other/Screenshot-1.png)
-
-### 🖼️ Homepage (Real News Detected)
-![Homepage](other/Screenshot-2.png)
-
-### 📊 Models Comparison
-![Models Comparison](other/Screenshot-3.png)
 
 ---
 
