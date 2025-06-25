@@ -5,7 +5,7 @@
 
 ## 🚀 Overview
 
-The **Fake News Detection** project is designed to combat the spread of misinformation by using machine learning to classify news articles as **Fake** or **Real**. Built with a full-stack architecture, the app allows users to input news text, receive predictions from multiple models, and engage with interactive educational tools.
+**VeriNews** is designed to combat the spread of misinformation by using machine learning to classify news articles as **Fake** or **Real**. Built with a full-stack architecture, the app allows users to input news text, receive predictions from multiple models, and engage with interactive educational tools.
 
 ---
 </center>
