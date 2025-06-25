@@ -1,4 +1,4 @@
-# 📰 Fake News Detection App  
+# 📰 VeriNews
 **A Machine Learning-Powered Full-Stack Web Application to Classify News Articles as Real or Fake**
 
 ---
